@@ -17,13 +17,13 @@ p {
 }
 /* Put a border around your image */
 img {
-    height: 500px;
+    height: 400px;
     width: 250px;
     border-style: dotted;
     border-width: medium;
 }
 /* Change the font-family of your list */
-li {
+ul {
     font-family: fantasy;
 }
 /* Add a background color to the footer element */
