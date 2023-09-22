@@ -1,10 +1,10 @@
 /* Add a background color to the header element */
 header {
-    color: cadetblue;
+    background-color: cadetblue;
 }
 /* Add a fun background color to the main element */
 main {
-    color: coral;
+    background-color: coral;
 }
 /* Align the h1 containing your name in the center of the header*/
 h1 {
@@ -17,12 +17,13 @@ p {
 }
 /* Put a border around your image */
 img {
-    size: 500 x 500;
+    height: 500px;
+    width: 250px;
     border-style: dotted;
     border-width: medium;
 }
 /* Change the font-family of your list */
-ul {
+li {
     font-family: fantasy;
 }
 /* Add a background color to the footer element */
