@@ -17,7 +17,7 @@ p {
 }
 /* Put a border around your image */
 img {
-    height: 400px;
+    height: 350px;
     width: 250px;
     border-style: dotted;
     border-width: medium;
@@ -28,5 +28,5 @@ ul {
 }
 /* Add a background color to the footer element */
 footer {
-    background-color: brown;
+    background-color: darkblue;
 }
