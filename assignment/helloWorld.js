@@ -1,0 +1,1 @@
+console.log('Hello Prime, and the world at large! Its very fun and rewarding to be learning these skills, thanks for being here with me!');
